@@ -26,7 +26,7 @@ REST API for managing products with JWT authentication.
 
 1. Clone repository:
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/EepSaepullohDev/product-api.git
    cd product-api
 ```
 
