@@ -195,4 +195,4 @@ MIT License
 
 ## Contact
 
-Your Name - your.email@example.com
+Eep Saepulloh - eepsaepullohdev@gmail.com
